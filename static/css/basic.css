@@ -1,0 +1,11 @@
+body{
+  overflow: scroll;
+}
+
+.bar {
+	  fill: steelblue;
+	}
+
+	.bar:hover {
+	  fill: brown;
+	}
